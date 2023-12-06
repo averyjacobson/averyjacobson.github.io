@@ -51,6 +51,3 @@ body {
     text-align: center;
   }
   
-  .smooth {
-    transition: color 1s ease-in-out;
-  }
